@@ -111,6 +111,7 @@ a {
     width: 1200px;
     margin: auto;
     display: flex;
+    gap: 1rem;
     /* position: relative; */
   
 }
@@ -137,6 +138,7 @@ a {
     width: 100%;
     position: relative;
     margin-bottom: 7.5rem;
+    margin-top: 2rem;
     
 }
 .images {
